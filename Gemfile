@@ -38,3 +38,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # Serializador
 gem 'active_model_serializers'
+gem 'pg'
